@@ -1,0 +1,43 @@
+.parallax {
+
+    background-repeat: no-repeat;
+    
+}
+
+
+.border-img-menu img {
+
+    border: solid 3px white;
+    margin:0 auto;
+    
+}
+
+
+section#packages a, input[type="submit"] {
+
+    border: 1px solid #ea222d;
+
+}
+input, select, textarea {
+
+    border: solid 0.1rem lightgray;
+
+}
+
+.border-img-carte img {
+
+    border: solid 5px lightgray;
+    margin:0 auto;
+    
+
+}
+
+
+.border-img-menu span.price {
+
+    border : 2px solid white;
+    border-radius:50%;
+
+}
+
+
